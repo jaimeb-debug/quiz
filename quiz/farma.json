@@ -1,0 +1,1522 @@
+{
+  "Introducción": [
+    {
+      "question": "¿Qué rama de las Ciencias Biológicas se dedica al estudio de las acciones de agentes químicos sobre organismos vivientes?",
+      "options": [
+        "a) Fisiología",
+        "b) Química",
+        "c) Farmacología",
+        "d) Ecología"
+      ],
+      "correct_answer": "c) Farmacología"
+    },
+    {
+      "question": "¿Qué disciplina médica, sustentada en base científica, abriga la experiencia farmacológica y clínica para mejorar el manejo de medicamentos?",
+      "options": [
+        "a) Farmacognosia",
+        "b) Farmacología Clínica",
+        "c) Farmacoquímica",
+        "d) Farmacoterapia"
+      ],
+      "correct_answer": "b) Farmacología Clínica"
+    },
+    {
+      "question": "¿Cuál es el significado etimológico de \"Farmacología\"?",
+      "options": [
+        "a) Conocimiento de las plantas",
+        "b) Estudio de los venenos",
+        "c) Ciencia de las enfermedades",
+        "d) Conocimiento de los fármacos/remedios"
+      ],
+      "correct_answer": "d) Conocimiento de los fármacos/remedios"
+    },
+    {
+      "question": "¿Quién utilizó por primera vez el término \"farmacognosia\" en 1815?",
+      "options": [
+        "a) Paracelso",
+        "b) Galeno",
+        "c) Seydler",
+        "d) Gómez-Pamo"
+      ],
+      "correct_answer": "c) Seydler"
+    },
+    {
+      "question": "¿Qué estudia principalmente la Farmacognosia?",
+      "options": [
+        "a) La síntesis química de fármacos",
+        "b) Las interacciones medicamentosas",
+        "c) Las sustancias de origen natural con aplicación farmacéutica",
+        "d) Los efectos adversos de los medicamentos"
+      ],
+      "correct_answer": "c) Las sustancias de origen natural con aplicación farmacéutica"
+    },
+    {
+      "question": "En la prehistoria, ¿cómo se denominaba a la farmacología ejercida hasta el siglo V a.C.?",
+      "options": [
+        "a) Medicina técnica",
+        "b) Farmacia primitiva",
+        "c) Medicina pretécnica",
+        "d) Terapéutica empírica"
+      ],
+      "correct_answer": "c) Medicina pretécnica"
+    },
+    {
+      "question": "¿Qué figura histórica potenció el conocimiento del principio activo en un medicamento, siendo acusado de \"creador de venenos\"?",
+      "options": [
+        "a) Claudio Galeno",
+        "b) Johann Jakob Wepfer",
+        "c) Paracelso",
+        "d) Rudolf Buchheim"
+      ],
+      "correct_answer": "c) Paracelso"
+    },
+    {
+      "question": "¿Qué rama de la farmacología estudia el tránsito de los fármacos dentro del organismo y las modificaciones que sufren?",
+      "options": [
+        "a) Farmacodinamia",
+        "b) Farmacocinética",
+        "c) Farmacoterapia",
+        "d) Farmacopatología"
+      ],
+      "correct_answer": "b) Farmacocinética"
+    },
+    {
+      "question": "¿Qué estudia la Farmacodinamia?",
+      "options": [
+        "a) La preparación de los fármacos para su administración",
+        "b) Los efectos bioquímicos y fisiológicos del medicamento en el organismo y sus mecanismos de acción",
+        "c) El origen y estructura de principios activos naturales",
+        "d) Los efectos deletéreos de los fármacos"
+      ],
+      "correct_answer": "b) Los efectos bioquímicos y fisiológicos del medicamento en el organismo y sus mecanismos de acción"
+    },
+    {
+      "question": "Según el texto, ¿qué es un fármaco?",
+      "options": [
+        "a) Unicamente una sustancia de origen natural",
+        "b) Una sustancia química que interactúa con un organismo vivo con fines terapéuticos, administrada exógenamente",
+        "c) Cualquier sustancia que produce efectos en el sistema nervioso central",
+        "d) El producto final elaborado por la tecnología farmacéutica"
+      ],
+      "correct_answer": "b) Una sustancia química que interactúa con un organismo vivo con fines terapéuticos, administrada exógenamente"
+    },
+    {
+      "question": "¿Cuál es la diferencia principal entre fármaco y medicamento según el texto?",
+      "options": [
+        "a) No hay diferencia, son sinónimos",
+        "b) El fármaco es el principio activo y el medicamento es el producto elaborado para uso terapéutico",
+        "c) El medicamento es natural y el fármaco es sintético",
+        "d) El fármaco es para diagnóstico y el medicamento para tratamiento"
+      ],
+      "correct_answer": "b) El fármaco es el principio activo y el medicamento es el producto elaborado para uso terapéutico"
+    },
+    {
+      "question": "Los fármacos obtenidos por modificación química de productos naturales se clasifican como:",
+      "options": [
+        "a) Naturales",
+        "b) Sintéticos",
+        "c) Semisintéticos",
+        "d) Biológicos"
+      ],
+      "correct_answer": "c) Semisintéticos"
+    },
+    {
+      "question": "¿Qué nombre se refiere a la composición molecular del fármaco siguiendo reglas de nomenclatura química?",
+      "options": [
+        "a) Nombre comercial",
+        "b) Nombre genérico",
+        "c) Nombre químico",
+        "d) Denominación Común Internacional (DCI)"
+      ],
+      "correct_answer": "c) Nombre químico"
+    },
+    {
+      "question": "¿Qué organismo establece la Denominación Común Internacional (DCI) de los principios activos?",
+      "options": [
+        "a) La FDA (Food and Drug Administration)",
+        "b) La Agencia Europea de Medicamentos (EMA)",
+        "c) La Organización Mundial de la Salud (OMS)",
+        "d) Las compañías farmacéuticas individuales"
+      ],
+      "correct_answer": "c) La Organización Mundial de la Salud (OMS)"
+    },
+    {
+      "question": "¿Qué caracteriza a un nombre comercial o marca de un medicamento?",
+      "options": [
+        "a) Es de titularidad pública",
+        "b) Es el nombre oficial del fármaco",
+        "c) Es el nombre dado por la compañía que lo comercializa y está protegido por patente/registro",
+        "d) Sigue las reglas de la nomenclatura química"
+      ],
+      "correct_answer": "c) Es el nombre dado por la compañía que lo comercializa y está protegido por patente/registro"
+    }
+  ],
+  "Capítulo I: Farmacocinética": [
+    {
+      "question": "¿Qué estudia la farmacocinética según la definición de la OMS de 1970?",
+      "options": [
+        "a) Solo la absorción y distribución de los fármacos",
+        "b) Solo el metabolismo y excreción de los fármacos",
+        "c) La absorción, distribución, metabolismo y excreción de los fármacos",
+        "d) Los efectos terapéuticos y tóxicos de los fármacos"
+      ],
+      "correct_answer": "c) La absorción, distribución, metabolismo y excreción de los fármacos"
+    },
+    {
+      "question": "El acrónimo LADME se refiere a los procesos de:",
+      "options": [
+        "a) Latencia, Absorción, Duración, Metabolismo, Efecto",
+        "b) Liberación, Absorción, Distribución, Metabolismo, Excreción",
+        "c) Liberación, Administración, Duración, Metabolismo, Eliminación",
+        "d) Latencia, Administración, Difusión, Metabolismo, Excreción"
+      ],
+      "correct_answer": "b) Liberación, Absorción, Distribución, Metabolismo, Excreción"
+    },
+    {
+      "question": "¿Qué proceso de LADME implica el acceso del fármaco inalterado a la circulación sistémica?",
+      "options": [
+        "a) Liberación",
+        "b) Absorción",
+        "c) Distribución",
+        "d) Metabolismo"
+      ],
+      "correct_answer": "b) Absorción"
+    },
+    {
+      "question": "¿Cuál de los siguientes factores NO se menciona explícitamente como influyente en la farmacocinética en el texto?",
+      "options": [
+        "a) Peso",
+        "b) Edad",
+        "c) Género",
+        "d) Estados patológicos"
+      ],
+      "correct_answer": "c) Género (Aunque puede influir, no se lista explícitamente en la sección de factores)"
+    },
+    {
+      "question": "¿Qué es el efecto placebo mencionado en el texto?",
+      "options": [
+        "a) Un efecto secundario común de muchos fármacos",
+        "b) La influencia del estado psicológico del paciente en la respuesta a una sustancia inerte",
+        "c) La interacción entre dos medicamentos diferentes",
+        "d) La acumulación del fármaco en el tejido graso"
+      ],
+      "correct_answer": "b) La influencia del estado psicológico del paciente en la respuesta a una sustancia inerte"
+    },
+    {
+      "question": "¿Cuál es la vía de administración más conveniente, segura y menos costosa, pero con limitaciones por el metabolismo de primer paso?",
+      "options": [
+        "a) Vía intravenosa (iv)",
+        "b) Vía intramuscular (im)",
+        "c) Vía oral (po)",
+        "d) Vía subcutánea (sc)"
+      ],
+      "correct_answer": "c) Vía oral (po)"
+    },
+    {
+      "question": "¿Dónde ocurre habitualmente la mayor parte de la absorción de un fármaco administrado por vía oral?",
+      "options": [
+        "a) En la boca",
+        "b) En el estómago",
+        "c) En el intestino delgado",
+        "d) En el intestino grueso"
+      ],
+      "correct_answer": "c) En el intestino delgado"
+    },
+    {
+      "question": "¿Qué vía de administración permite una absorción rápida directamente a los capilares bajo la lengua, evitando el primer paso hepático?",
+      "options": [
+        "a) Vía oral",
+        "b) Vía rectal",
+        "c) Vía sublingual",
+        "d) Vía intradérmica"
+      ],
+      "correct_answer": "c) Vía sublingual"
+    },
+    {
+      "question": "¿Para qué tipo de pacientes se prescriben a menudo los supositorios por vía rectal?",
+      "options": [
+        "a) Pacientes con dificultad para tragar o con náuseas",
+        "b) Pacientes que requieren una acción muy rápida",
+        "c) Pacientes con enfermedades hepáticas graves",
+        "d) Pacientes que necesitan dosis muy pequeñas"
+      ],
+      "correct_answer": "a) Pacientes con dificultad para tragar o con náuseas"
+    },
+    {
+      "question": "La administración mediante inyección (parenteral) incluye las vías:",
+      "options": [
+        "a) Oral, sublingual, rectal",
+        "b) Tópica, inhalatoria, transdérmica",
+        "c) Subcutánea, intramuscular, intravenosa, intratecal",
+        "d) Ótica, oftálmica, nasal"
+      ],
+      "correct_answer": "c) Subcutánea, intramuscular, intravenosa, intratecal"
+    },
+    {
+      "question": "¿Qué vía de administración es la mejor para administrar una dosis precisa de forma rápida y controlada directamente en el torrente sanguíneo?",
+      "options": [
+        "a) Vía intramuscular",
+        "b) Vía subcutánea",
+        "c) Vía intravenosa",
+        "d) Vía oral"
+      ],
+      "correct_answer": "c) Vía intravenosa"
+    },
+    {
+      "question": "¿Qué factor determina principalmente la distribución de un fármaco liposoluble?",
+      "options": [
+        "a) Su unión a proteínas plasmáticas",
+        "b) Su capacidad para disolverse en agua",
+        "c) Su tendencia a concentrarse en tejidos grasos",
+        "d) Su velocidad de eliminación renal"
+      ],
+      "correct_answer": "c) Su tendencia a concentrarse en tejidos grasos"
+    },
+    {
+      "question": "¿Cuál es el principal órgano donde se produce el metabolismo (biotransformación) de la mayoría de los fármacos?",
+      "options": [
+        "a) Riñón",
+        "b) Pulmón",
+        "c) Intestino",
+        "d) Hígado"
+      ],
+      "correct_answer": "d) Hígado"
+    },
+    {
+      "question": "¿Qué grupo específico de enzimas hepáticas es el principal mecanismo para la metabolización de fármacos?",
+      "options": [
+        "a) Amilasas",
+        "b) Lipasas",
+        "c) Citocromo P-450",
+        "d) Proteasas"
+      ],
+      "correct_answer": "c) Citocromo P-450"
+    },
+    {
+      "question": "¿Cuál es la principal vía de eliminación (excreción) para la mayoría de los fármacos hidrosolubles y sus metabolitos?",
+      "options": [
+        "a) Bilis (heces)",
+        "b) Pulmones (aire espirado)",
+        "c) Riñones (orina)",
+        "d) Sudor y saliva"
+      ],
+      "correct_answer": "c) Riñones (orina)"
+    }
+  ],
+  "Capítulo II: Farmacopatología": [
+    {
+      "question": "¿Cómo se define una Reacción Adversa a un Medicamento (RAM) según la OMS?",
+      "options": [
+        "a) Cualquier efecto de un fármaco, deseado o no",
+        "b) Una respuesta beneficiosa e intencionada a un fármaco",
+        "c) Cualquier respuesta a un fármaco que sea nociva, no intencionada y que ocurra a dosis habituales",
+        "d) Únicamente las reacciones alérgicas a los medicamentos"
+      ],
+      "correct_answer": "c) Cualquier respuesta a un fármaco que sea nociva, no intencionada y que ocurra a dosis habituales"
+    },
+    {
+      "question": "¿Qué término se considera técnicamente más apropiado para los efectos no deseados, desagradables o nocivos de un fármaco?",
+      "options": [
+        "a) Efecto secundario",
+        "b) Efecto colateral",
+        "c) Reacción adversa al fármaco",
+        "d) Toxicidad"
+      ],
+      "correct_answer": "c) Reacción adversa al fármaco"
+    },
+    {
+      "question": "¿Cuál es una de las reacciones adversas más frecuentes, especialmente con fármacos administrados por vía oral?",
+      "options": [
+        "a) Molestias digestivas (náuseas, diarrea, etc.)",
+        "b) Reacciones cutáneas",
+        "c) Alteraciones del sueño",
+        "d) Dolores musculares"
+      ],
+      "correct_answer": "a) Molestias digestivas (náuseas, diarrea, etc.)"
+    },
+    {
+      "question": "¿Qué tipo de reacción adversa requiere una exposición previa al medicamento para la producción de anticuerpos?",
+      "options": [
+        "a) Idiosincrasia",
+        "b) Efecto tóxico",
+        "c) Hipersensibilidad (alergia)",
+        "d) Teratogénesis"
+      ],
+      "correct_answer": "c) Hipersensibilidad (alergia)"
+    },
+    {
+      "question": "La anemia hemolítica producida por primaquina en pacientes con deficiencia de glucosa-6-fosfato deshidrogenasa es un ejemplo de:",
+      "options": [
+        "a) Efecto tóxico",
+        "b) Idiosincrasia",
+        "c) Reacción alérgica",
+        "d) Superinfección"
+      ],
+      "correct_answer": "b) Idiosincrasia"
+    },
+    {
+      "question": "¿Qué tipo de reacción adversa puede causar alteraciones morfológicas en el feto durante el embarazo?",
+      "options": [
+        "a) Superinfección",
+        "b) Idiosincrasia",
+        "c) Acción teratógena (Teratogénesis)",
+        "d) Efecto colateral"
+      ],
+      "correct_answer": "c) Acción teratógena (Teratogénesis)"
+    },
+    {
+      "question": "La aparición de una infección más grave por hongos o gérmenes no sensibles tras el uso prolongado de antibióticos de amplio espectro se denomina:",
+      "options": [
+        "a) Resistencia antibiótica",
+        "b) Superinfección",
+        "c) Efecto tóxico",
+        "d) Reacción de hipersensibilidad"
+      ],
+      "correct_answer": "b) Superinfección"
+    },
+    {
+      "question": "¿Qué es la Farmacovigilancia (FV)?",
+      "options": [
+        "a) El estudio de cómo se fabrican los medicamentos",
+        "b) La ciencia relacionada con la detección, evaluación, comprensión y prevención de efectos adversos de medicamentos",
+        "c) La regulación de los precios de los medicamentos",
+        "d) El marketing de nuevos fármacos"
+      ],
+      "correct_answer": "b) La ciencia relacionada con la detección, evaluación, comprensión y prevención de efectos adversos de medicamentos"
+    },
+    {
+      "question": "Según la clasificación de Smith Marsh, una RAM que interviene con la actividad habitual sin amenazar la vida (ej. erupciones extensas) se considera:",
+      "options": [
+        "a) Leve",
+        "b) Moderada",
+        "c) Grave",
+        "d) Mortal"
+      ],
+      "correct_answer": "b) Moderada"
+    },
+    {
+      "question": "Una RAM que amenaza directamente la vida del paciente (ej. fallo hepático, arritmia cardíaca grave) se clasifica como:",
+      "options": [
+        "a) Leve",
+        "b) Moderada",
+        "c) Grave",
+        "d) Idiopática"
+      ],
+      "correct_answer": "c) Grave"
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es un factor de riesgo mencionado explícitamente para aumentar la probabilidad de una RAM?",
+      "options": [
+        "a) Uso simultáneo de varios fármacos (polifarmacia)",
+        "b) Edad muy corta o muy avanzada",
+        "c) Embarazo y lactancia",
+        "d) Nivel educativo del paciente"
+      ],
+      "correct_answer": "d) Nivel educativo del paciente"
+    },
+    {
+      "question": "¿Por qué los recién nacidos son especialmente propensos a RAM como el síndrome del bebé gris con cloranfenicol?",
+      "options": [
+        "a) Porque su sistema inmune es muy reactivo",
+        "b) Porque su sistema metabólico enzimático no está completamente desarrollado",
+        "c) Porque reciben dosis más altas por peso",
+        "d) Porque sus riñones eliminan los fármacos muy rápido"
+      ],
+      "correct_answer": "b) Porque su sistema metabólico enzimático no está completamente desarrollado"
+    },
+    {
+      "question": "¿Qué método de Farmacovigilancia se basa en la identificación y detección de sospechas de RAM por parte de los profesionales de la salud en su práctica diaria?",
+      "options": [
+        "a) Estudios epidemiológicos (cohorte, casos y control)",
+        "b) Sistema de notificación espontánea (Tarjeta Amarilla)",
+        "c) Sistema de farmacovigilancia intensiva",
+        "d) Ensayos clínicos post-comercialización"
+      ],
+      "correct_answer": "b) Sistema de notificación espontánea (Tarjeta Amarilla)"
+    },
+    {
+      "question": "Según el texto, ¿qué grupos de fármacos producen más del 70% de las RAM notificadas en general?",
+      "options": [
+        "a) Vitaminas, minerales, suplementos herbales y homeopáticos",
+        "b) Anestésicos, relajantes musculares, fármacos para quimioterapia y antivirales",
+        "c) Antibióticos, analgésicos (AINEs), psicofármacos y fármacos cardiovasculares",
+        "d) Antiácidos, laxantes, antidiarreicos y antieméticos"
+      ],
+      "correct_answer": "c) Antibióticos, analgésicos (AINEs), psicofármacos y fármacos cardiovasculares"
+    },
+    {
+      "question": "En el estudio cubano sobre RAM en pacientes con VIH, ¿cuál fue el antirretroviral con más reportes, asociado a erupción cutánea?",
+      "options": [
+        "a) Zidovudina",
+        "b) Lamivudina",
+        "c) Nevirapina",
+        "d) Efavirenz"
+      ],
+      "correct_answer": "c) Nevirapina"
+    }
+  ],
+  "Capítulo III: Formas Farmacéuticas": [
+    {
+      "question": "¿De qué se ocupa la Biofarmacia?",
+      "options": [
+        "a) Del estudio de los medicamentos biológicos (biofármacos)",
+        "b) De las interacciones entre el principio activo en su forma farmacéutica y el sistema biológico",
+        "c) Únicamente de los procesos LADME",
+        "d) De la síntesis de nuevas moléculas farmacéuticas"
+      ],
+      "correct_answer": "b) De las interacciones entre el principio activo en su forma farmacéutica y el sistema biológico"
+    },
+    {
+      "question": "¿Qué es un principio activo?",
+      "options": [
+        "a) El conjunto de excipientes de un medicamento",
+        "b) El componente responsable de la actividad farmacológica",
+        "c) La forma farmacéutica en sí misma",
+        "d) Una sustancia inerte utilizada para dar volumen"
+      ],
+      "correct_answer": "b) El componente responsable de la actividad farmacológica"
+    },
+    {
+      "question": "¿Qué son los excipientes?",
+      "options": [
+        "a) Los principios activos de un medicamento",
+        "b) Ingredientes inactivos que forman el vehículo del principio activo",
+        "c) Moléculas diana del fármaco",
+        "d) Metabolitos del fármaco"
+      ],
+      "correct_answer": "b) Ingredientes inactivos que forman el vehículo del principio activo"
+    },
+    {
+      "question": "¿Qué es la biofase?",
+      "options": [
+        "a) La fase de metabolismo del fármaco",
+        "b) La circulación sistémica",
+        "c) Las inmediaciones de la diana molecular (sitio de acción)",
+        "d) La forma farmacéutica antes de administrarse"
+      ],
+      "correct_answer": "c) Las inmediaciones de la diana molecular (sitio de acción)"
+    },
+    {
+      "question": "La ventana terapéutica se define como el rango de concentraciones entre:",
+      "options": [
+        "a) La dosis mínima y la dosis máxima administrada",
+        "b) La concentración de absorción y la de eliminación",
+        "c) La concentración efectiva mínima (CEM) y la máxima concentración tolerada (MCT)",
+        "d) La concentración en plasma y la concentración en el tejido diana"
+      ],
+      "correct_answer": "c) La concentración efectiva mínima (CEM) y la máxima concentración tolerada (MCT)"
+    },
+    {
+      "question": "¿Qué mide la biodisponibilidad de un fármaco?",
+      "options": [
+        "a) Su potencia intrínseca",
+        "b) La velocidad y magnitud con la que accede a circulación sistémica (o al sitio de acción)",
+        "c) Su vida media de eliminación",
+        "d) El número de efectos adversos que produce"
+      ],
+      "correct_answer": "b) La velocidad y magnitud con la que accede a circulación sistémica (o al sitio de acción)"
+    },
+    {
+      "question": "Las tabletas, cápsulas, granulados y polvos son ejemplos de formas farmacéuticas:",
+      "options": [
+        "a) Líquidas",
+        "b) Semisólidas",
+        "c) Gaseosas",
+        "d) Sólidas"
+      ],
+      "correct_answer": "d) Sólidas"
+    },
+    {
+      "question": "Los jarabes, elixires, suspensiones y emulsiones son ejemplos de formas farmacéuticas:",
+      "options": [
+        "a) Sólidas",
+        "b) Semisólidas",
+        "c) Líquidas",
+        "d) Gaseosas"
+      ],
+      "correct_answer": "c) Líquidas"
+    },
+    {
+      "question": "¿Qué forma farmacéutica sólida está recubierta con capas de azúcar, a veces con una capa entérica para resistir el jugo gástrico?",
+      "options": [
+        "a) Cápsula",
+        "b) Tableta",
+        "c) Gragea",
+        "d) Granulado"
+      ],
+      "correct_answer": "c) Gragea"
+    },
+    {
+      "question": "Las soluciones hidroalcohólicas edulcoradas y aromatizadas, que contienen entre 12-20% de alcohol, se denominan:",
+      "options": [
+        "a) Jarabes",
+        "b) Tinturas",
+        "c) Elíxires",
+        "d) Suspensiones"
+      ],
+      "correct_answer": "c) Elixires"
+    },
+    {
+      "question": "Los preparados sólidos en forma de huso o bala para introducción rectal, que funden a temperatura corporal, son:",
+      "options": [
+        "a) Óvulos",
+        "b) Supositorios",
+        "c) Tabletas vaginales",
+        "d) Emplastos"
+      ],
+      "correct_answer": "b) Supositorios"
+    },
+    {
+      "question": "¿Qué forma farmacéutica consiste en la desecación de una solución a baja temperatura y alto vacío, requiriendo reconstitución antes de usar?",
+      "options": [
+        "a) Ampolleta",
+        "b) Bulbo",
+        "c) Liofilizado",
+        "d) Suspensión inyectable"
+      ],
+      "correct_answer": "c) Liofilizado"
+    },
+    {
+      "question": "Las dispersiones finas de un líquido o sólido en un gas, administradas por inhalación mediante nebulizadores, son:",
+      "options": [
+        "a) Jarabes",
+        "b) Aerosoles",
+        "c) Colirios",
+        "d) Linimentos"
+      ],
+      "correct_answer": "b) Aerosoles"
+    },
+    {
+      "question": "Según el Sistema de Clasificación Biofarmacéutico (SCB), un fármaco con alta solubilidad y alta permeabilidad pertenece a la:",
+      "options": [
+        "a) Clase I",
+        "b) Clase II",
+        "c) Clase III",
+        "d) Clase IV"
+      ],
+      "correct_answer": "a) Clase I"
+    },
+    {
+      "question": "¿Qué forma farmacéutica tópica permite la dosificación continua de un fármaco a una velocidad programada durante un tiempo definido para acción sistémica?",
+      "options": [
+        "a) Ungüento",
+        "b) Crema",
+        "c) Loción",
+        "d) Parche transdérmico (TTS)"
+      ],
+      "correct_answer": "d) Parche transdérmico (TTS)"
+    }
+  ],
+  "Capítulo IV: Fármacos con Actividad Adrenérgica": [
+    {
+      "question": "Las dos subdivisiones principales del sistema nervioso autónomo mencionadas son:",
+      "options": [
+        "a) Central y Periférico",
+        "b) Somático y Visceral",
+        "c) Simpático y Parasimpático",
+        "d) Sensorial y Motor"
+      ],
+      "correct_answer": "c) Simpático y Parasimpático"
+    },
+    {
+      "question": "¿Quién describió el \"fenómeno de Dale\" relacionado con la inversión de la acción hipertensiva de la adrenalina?",
+      "options": [
+        "a) Elliot",
+        "b) Cannon",
+        "c) Henry Dale",
+        "d) Von Euler"
+      ],
+      "correct_answer": "c) Henry Dale"
+    },
+    {
+      "question": "En la organización del sistema simpático, ¿dónde se encuentran los somas de las neuronas preganglionares?",
+      "options": [
+        "a) En los ganglios paravertebrales",
+        "b) En los ganglios prevertebrales",
+        "c) En la asta intermediolateral de la médula espinal",
+        "d) Directamente en los órganos efectores"
+      ],
+      "correct_answer": "c) En la asta intermediolateral de la médula espinal"
+    },
+    {
+      "question": "¿Qué neurotransmisor liberan la mayoría de las fibras postganglionares simpáticas?",
+      "options": [
+        "a) Acetilcolina",
+        "b) Dopamina",
+        "c) Serotonina",
+        "d) Norepinefrina (Noradrenalina)"
+      ],
+      "correct_answer": "d) Norepinefrina (Noradrenalina)"
+    },
+    {
+      "question": "¿Qué neurotransmisor liberan las fibras preganglionares (simpáticas y parasimpáticas) y la mayoría de las postganglionares parasimpáticas?",
+      "options": [
+        "a) Norepinefrina",
+        "b) Epinefrina",
+        "c) Acetilcolina",
+        "d) Dopamina"
+      ],
+      "correct_answer": "c) Acetilcolina"
+    },
+    {
+      "question": "¿Cuál es el paso limitante en la síntesis de noradrenalina?",
+      "options": [
+        "a) La descarboxilación de L-DOPA a dopamina",
+        "b) La hidroxilación de tirosina a L-DOPA por la tirosina hidroxilasa",
+        "c) La oxidación de dopamina a noradrenalina por la dopamina beta-hidroxilasa",
+        "d) La captación de tirosina del plasma"
+      ],
+      "correct_answer": "b) La hidroxilación de tirosina a L-DOPA por la tirosina hidroxilasa"
+    },
+    {
+      "question": "¿Dónde se lleva a cabo la transformación de dopamina en noradrenalina?",
+      "options": [
+        "a) En el citoplasma de la neurona",
+        "b) En el espacio sinaptico",
+        "c) Dentro de las vesículas adrenérgicas",
+        "d) En la mitocondria"
+      ],
+      "correct_answer": "c) Dentro de las vesículas adrenérgicas"
+    },
+    {
+      "question": "¿Qué fármaco inhibe el proceso de captación vesicular de catecolaminas, causando depleción de noradrenalina?",
+      "options": [
+        "a) Cocaína",
+        "b) Anfetamina",
+        "c) Reserpina",
+        "d) Clonidina"
+      ],
+      "correct_answer": "c) Reserpina"
+    },
+    {
+      "question": "La liberación de noradrenalina por estímulo nervioso (exocitosis) depende fundamentalmente del influjo de qué ion?",
+      "options": [
+        "a) Sodio (Na+)",
+        "b) Potasio (K+)",
+        "c) Calcio (Ca++)",
+        "d) Cloro (Cl-)"
+      ],
+      "correct_answer": "c) Calcio (Ca++)"
+    },
+    {
+      "question": "¿Qué tipo de receptor presináptico inhibe la liberación de noradrenalina cuando es activado por ésta?",
+      "options": [
+        "a) alpha1",
+        "b) alpha2",
+        "c) beta1",
+        "d) beta2"
+      ],
+      "correct_answer": "b) alpha2"
+    },
+    {
+      "question": "Los fármacos que imitan o simulan las acciones del sistema simpático se denominan:",
+      "options": [
+        "a) Simpaticolíticos o Adrenolíticos",
+        "b) Parasimpaticomiméticos o Colinérgicos",
+        "c) Simpaticomiméticos o Adrenérgicos",
+        "d) Colinérgicos Antagonistas"
+      ],
+      "correct_answer": "c) Simpaticomiméticos o Adrenérgicos"
+    },
+    {
+      "question": "La fenilefrina es un agonista selectivo de qué tipo de receptor adrenérgico?",
+      "options": [
+        "a) alpha1",
+        "b) alpha2",
+        "c) beta1",
+        "d) beta2"
+      ],
+      "correct_answer": "a) alpha1"
+    },
+    {
+      "question": "El salbutamol es un agonista selectivo utilizado principalmente por su efecto broncodilatador, ¿sobre qué receptor actúa preferentemente?",
+      "options": [
+        "a) alpha1",
+        "b) alpha2",
+        "c) beta1",
+        "d) beta2"
+      ],
+      "correct_answer": "d) beta2"
+    },
+    {
+      "question": "El propranolol es un fármaco bloqueante adrenérgico no selectivo, ¿qué receptores bloquea?",
+      "options": [
+        "a) Solo alpha1$ y alpha2",
+        "b) Solo beta1",
+        "c) beta1$ y beta2",
+        "d) alpha1, alpha2, beta1 y beta2"
+      ],
+      "correct_answer": "c) beta1 y beta2"
+    },
+    {
+      "question": "El atenolol y el metoprolol son ejemplos de bloqueantes beta adrenérgicos denominados \"cardioselectivos\" porque a bajas dosis bloquean preferentemente los receptores:",
+      "options": [
+        "a) alpha1",
+        "b) alpha2",
+        "c) beta1",
+        "d) beta2"
+      ],
+      "correct_answer": "c) beta1"
+    }
+  ],
+  "Capítulo V: Farmacología Cardiovascular": [
+    {
+      "question": "¿Cuál es la principal causa de invalidez y muerte prematura en el mundo según el texto?",
+      "options": [
+        "a) Enfermedades infecciosas",
+        "b) Cáncer",
+        "c) Enfermedades cardiovasculares (ECV)",
+        "d) Enfermedades respiratorias crónicas"
+      ],
+      "correct_answer": "c) Enfermedades cardiovasculares (ECV)"
+    },
+    {
+      "question": "¿Quién introdujo conceptos claros de anatomía y función cardíaca, describiendo el corazón como una bomba y la circulación cerrada (excepto capilares)?",
+      "options": [
+        "a) Galeno",
+        "b) Miguel Servet",
+        "c) Andreas Vesalio",
+        "d) William Harvey"
+      ],
+      "correct_answer": "d) William Harvey"
+    },
+    {
+      "question": "¿Qué estructura cardíaca inicia normalmente el potencial de acción que da comienzo al ciclo cardíaco?",
+      "options": [
+        "a) Nodo auriculoventricular (AV)",
+        "b) Haz de His",
+        "c) Fibras de Purkinje",
+        "d) Nodo sinusal (sinoauricular o SA)"
+      ],
+      "correct_answer": "d) Nodo sinusal (sinoauricular o SA)"
+    },
+    {
+      "question": "Un exceso de qué ion en los líquidos extracelulares puede hacer que el corazón se dilate y quede flácido, disminuyendo la frecuencia cardíaca?",
+      "options": [
+        "a) Calcio (Ca++)",
+        "b) Sodio (Na+)",
+        "c) Potasio (K+)",
+        "d) Magnesio (Mg++)"
+      ],
+      "correct_answer": "c) Potasio (K+)"
+    },
+    {
+      "question": "La hipertensión arterial (HTA) se define generalmente por cifras tensionales superiores a:",
+      "options": [
+        "a) 120/80 mmHg",
+        "b) 130/85 mmHg",
+        "c) 140/90 mmHg",
+        "d) 160/100 mmHg"
+      ],
+      "correct_answer": "c) 140/90 mmHg"
+    },
+    {
+      "question": "¿Qué grupo de fármacos antihipertensivos actúa aumentando la excreción renal de sodio y agua?",
+      "options": [
+        "a) Betabloqueadores",
+        "b) Inhibidores de la ECA",
+        "c) Diuréticos",
+        "d) Bloqueadores de los canales de calcio"
+      ],
+      "correct_answer": "c) Diuréticos"
+    },
+    {
+      "question": "La Furosemida pertenece al grupo de diuréticos que actúan principalmente en:",
+      "options": [
+        "a) El túbulo contorneado proximal",
+        "b) El asa de Henle (diuréticos de asa o de alta eficacia)",
+        "c) El túbulo contorneado distal",
+        "d) El túbulo colector"
+      ],
+      "correct_answer": "b) El asa de Henle (diuréticos de asa o de alta eficacia)"
+    },
+    {
+      "question": "El Nifedipino y el Amlodipino pertenecen al grupo de bloqueadores de los canales de calcio (BCC) conocido como:",
+      "options": [
+        "a) Fenilalquilaminas (Verapamilo)",
+        "b) Benzotiazepinas (Diltiazem)",
+        "c) Dihidropiridinas",
+        "d) Tiazidas"
+      ],
+      "correct_answer": "c) Dihidropiridinas"
+    },
+    {
+      "question": "¿Cuál es el mecanismo de acción principal de los Betabloqueadores en el tratamiento de la HTA?",
+      "options": [
+        "a) Vasodilatación directa",
+        "b) Inhibición de la reabsorción de sodio",
+        "c) Bloqueo de los receptores beta adrenérgicos (disminuyendo gasto cardíaco, liberación de renina, etc.)",
+        "d) Bloqueo de los canales de calcio"
+      ],
+      "correct_answer": "c) Bloqueo de los receptores beta adrenérgicos (disminuyendo gasto cardíaco, liberación de renina, etc.)"
+    },
+    {
+      "question": "El Captopril y el Enalapril pertenecen al grupo de fármacos que inhiben:",
+      "options": [
+        "a) Los receptores alfa adrenérgicos",
+        "b) Los receptores beta adrenérgicos",
+        "c) Los canales de calcio",
+        "d) La enzima convertidora de angiotensina (IECA)"
+      ],
+      "correct_answer": "d) La enzima convertidora de angiotensina (IECA)"
+    },
+    {
+      "question": "El Losartan y el Valsartán actúan bloqueando:",
+      "options": [
+        "a) La enzima convertidora de angiotensina",
+        "b) Los receptores de la angiotensina II (ARA II)",
+        "c) Los receptores beta adrenérgicos",
+        "d) Los canales de sodio"
+      ],
+      "correct_answer": "b) Los receptores de la angiotensina II (ARA II)"
+    },
+    {
+      "question": "¿Qué síndrome clínico se produce cuando el corazón no puede mantener un bombeo adecuado para satisfacer las necesidades metabólicas?",
+      "options": [
+        "a) Angina de pecho",
+        "b) Infarto de miocardio",
+        "c) Insuficiencia cardíaca (IC)",
+        "d) Arritmia cardíaca"
+      ],
+      "correct_answer": "c) Insuficiencia cardíaca (IC)"
+    },
+    {
+      "question": "¿Qué fármaco glucosido cardíaco, obtenido de la Digitalis lanata, se utiliza en IC (especialmente con fibrilación auricular) por su efecto inotrópico positivo?",
+      "options": [
+        "a) Furosemida",
+        "b) Captopril",
+        "c) Carvedilol",
+        "d) Digoxina"
+      ],
+      "correct_answer": "d) Digoxina"
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo antianginoso de los Nitratos (como la nitroglicerina) en la angina estable crónica?",
+      "options": [
+        "a) Aumento directo de la contractilidad cardíaca",
+        "b) Reducción de la frecuencia cardíaca",
+        "c) Reducción de la precarga (por venodilatación) y en menor grado de la poscarga, disminuyendo el consumo de oxígeno",
+        "d) Bloqueo de los canales de calcio"
+      ],
+      "correct_answer": "c) Reducción de la precarga (por venodilatación) y en menor grado de la poscarga, disminuyendo el consumo de oxígeno"
+    },
+    {
+      "question": "Los fármacos antiarrítmicos de Clase I (según Vaughan Williams) actúan principalmente bloqueando:",
+      "options": [
+        "a) Los canales de Potasio (K+)",
+        "b) Los canales de Calcio (Ca++)",
+        "c) Los receptores beta adrenérgicos",
+        "d) Los canales de Sodio (Na+)"
+      ],
+      "correct_answer": "d) Los canales de Sodio (Na+)"
+    }
+  ],
+  "Capítulo VI: Farmacología del Aparato Respiratorio": [
+    {
+      "question": "¿Cuál es la función principal de las vías aéreas conductoras (nariz, faringe, laringe, tráquea, bronquios)?",
+      "options": [
+        "a) Intercambio gaseoso (hematosis)",
+        "b) Conducir, calentar, humedecer y depurar el aire",
+        "c) Producir surfactante",
+        "d) Regular la frecuencia respiratoria"
+      ],
+      "correct_answer": "b) Conducir, calentar, humedecer y depurar el aire"
+    },
+    {
+      "question": "¿Dónde ocurre principalmente el intercambio gaseoso en los pulmones?",
+      "options": [
+        "a) En la tráquea y bronquios principales",
+        "b) En los bronquiolos terminales",
+        "c) En los alvéolos y bronquiolos respiratorios (ácinos)",
+        "d) En la cavidad pleural"
+      ],
+      "correct_answer": "c) En los alvéolos y bronquiolos respiratorios (ácinos)"
+    },
+    {
+      "question": "El asma se define como una enfermedad:",
+      "options": [
+        "a) Infecciosa aguda de los alvéolos",
+        "b) Degenerativa del tejido pulmonar",
+        "c) Inflamatoria crónica de las vías aéreas con obstrucción variable y reversible",
+        "d) Cardiovascular que afecta la circulación pulmonar"
+      ],
+      "correct_answer": "c) Inflamatoria crónica de las vías aéreas con obstrucción variable y reversible"
+    },
+    {
+      "question": "¿Qué característica fundamental del asma produce el estrechamiento de los bronquios?",
+      "options": [
+        "a) Acumulación excesiva de surfactante",
+        "b) Fibrosis del tejido pulmonar",
+        "c) Broncoconstricción (contracción del músculo liso bronquial) e inflamación",
+        "d) Colapso alveolar"
+      ],
+      "correct_answer": "c) Broncoconstricción (contracción del músculo liso bronquial) e inflamación"
+    },
+    {
+      "question": "¿Cuál es la vía de administración de elección para la mayoría de los fármacos utilizados en el tratamiento del asma?",
+      "options": [
+        "a) Oral",
+        "b) Intravenosa",
+        "c) Subcutánea",
+        "d) Inhalatoria"
+      ],
+      "correct_answer": "d) Inhalatoria"
+    },
+    {
+      "question": "¿Cuál es el tamaño de partícula ideal para que un fármaco inhalado alcance y se deposite en las vías aéreas menores?",
+      "options": [
+        "a) Menor de 0.5 micrómetros",
+        "b) Entre 1 y 5 micrómetros",
+        "c) Entre 10 y 20 micrómetros",
+        "d) Mayor de 20 micrómetros"
+      ],
+      "correct_answer": "b) Entre 1 y 5 micrómetros"
+    },
+    {
+      "question": "¿Qué grupo de fármacos broncodilatadores actúa estimulando selectivamente los receptores beta-2 adrenérgicos?",
+      "options": [
+        "a) Anticolinérgicos (Bromuro de Ipratropio)",
+        "b) Xantinas (Teofilina)",
+        "c) Agonistas beta-2 (Salbutamol, Salmeterol)",
+        "d) Corticosteroides"
+      ],
+      "correct_answer": "c) Agonistas beta-2 (Salbutamol, Salmeterol)"
+    },
+    {
+      "question": "El Salbutamol y la Terbutalina son agonistas beta-2:",
+      "options": [
+        "a) De larga duración (12 horas)",
+        "b) De corta duración (4-6 horas)",
+        "c) Que también bloquean receptores alfa",
+        "d) Administrados únicamente por vía oral"
+      ],
+      "correct_answer": "b) De corta duración (4-6 horas)"
+    },
+    {
+      "question": "¿Cuál es el principal mecanismo de acción broncodilatador de la Teofilina (Metilxantina)?",
+      "options": [
+        "a) Estimulación de receptores beta-2",
+        "b) Bloqueo de receptores muscarínicos",
+        "c) Inhibición de la fosfodiesterasa (aumentando AMPc) y antagonismo de adenosina",
+        "d) Estabilización de mastocitos"
+      ],
+      "correct_answer": "c) Inhibición de la fosfodiesterasa (aumentando AMPc) y antagonismo de adenosina"
+    },
+    {
+      "question": "El Bromuro de Ipratropio actúa como broncodilatador al:",
+      "options": [
+        "a) Estimular receptores beta-2",
+        "b) Bloquear los receptores muscarínicos (M3) en el músculo liso bronquial",
+        "c) Inhibir la liberación de histamina",
+        "d) Reducir la producción de leucotrienos"
+      ],
+      "correct_answer": "b) Bloquear los receptores muscarínicos (M3) en el músculo liso bronquial"
+    },
+    {
+      "question": "¿Qué grupo de fármacos antiinflamatorios es considerado de primera línea en el tratamiento de mantenimiento del asma persistente?",
+      "options": [
+        "a) Cromoglicato de sodio",
+        "b) Antagonistas de leucotrienos",
+        "c) Glucocorticoides inhalados",
+        "d) Agonistas beta-2 de larga duración"
+      ],
+      "correct_answer": "c) Glucocorticoides inhalados"
+    },
+    {
+      "question": "El Cromoglicato de sodio y el Nedocromil actúan principalmente:",
+      "options": [
+        "a) Como broncodilatadores potentes",
+        "b) Bloqueando receptores de leucotrienos",
+        "c) Estabilizando los mastocitos e inhibiendo la liberación de mediadores (acción profiláctica)",
+        "d) Reduciendo la inflamación a través de mecanismos glucocorticoides"
+      ],
+      "correct_answer": "c) Estabilizando los mastocitos e inhibiendo la liberación de mediadores (acción profiláctica)"
+    },
+    {
+      "question": "El Montelukast y el Zafirlukast son fármacos que actúan:",
+      "options": [
+        "a) Como agonistas beta-2",
+        "b) Como glucocorticoides",
+        "c) Como antagonistas de los receptores de leucotrienos",
+        "d) Como anticolinérgicos"
+      ],
+      "correct_answer": "c) Como antagonistas de los receptores de leucotrienos"
+    },
+    {
+      "question": "La Enfermedad Pulmonar Obstructiva Crónica (EPOC) se asocia principalmente a la exposición a:",
+      "options": [
+        "a) Alérgenos comunes (polen, ácaros)",
+        "b) Infecciones virales recurrentes",
+        "c) Humo del tabaco y otros gases nocivos",
+        "d) Factores genéticos únicamente"
+      ],
+      "correct_answer": "c) Humo del tabaco y otros gases nocivos"
+    },
+    {
+      "question": "En el tratamiento de la EPOC, ¿qué grupo de broncodilatadores suele considerarse de primera línea, especialmente por su mayor duración de acción que los beta-2 de corta duración?",
+      "options": [
+        "a) Teofilina",
+        "b) Agonistas beta-2 de corta duración (Salbutamol)",
+        "c) Anticolinérgicos (Bromuro de Ipratropio, Tiotropio)",
+        "d) Cromoglicato de sodio"
+      ],
+      "correct_answer": "c) Anticolinérgicos (Bromuro de Ipratropio, Tiotropio)"
+    }
+  ],
+  "Capítulo VII: Farmacología del Riñón y Tracto Urinario": [
+    {
+      "question": "Además de la eliminación de desechos, ¿cuál es otra función primordial del riñón?",
+      "options": [
+        "a) Producción de bilis",
+        "b) Digestión de proteínas",
+        "c) Regulación del equilibrio hídrico, electrolítico y ácido-base",
+        "d) Almacenamiento de glucosa"
+      ],
+      "correct_answer": "c) Regulación del equilibrio hídrico, electrolítico y ácido-base"
+    },
+    {
+      "question": "¿Cuál es la unidad funcional básica del riñón, responsable de la formación de orina?",
+      "options": [
+        "a) El glomérulo",
+        "b) La cápsula de Bowman",
+        "c) La nefrona",
+        "d) El túbulo colector"
+      ],
+      "correct_answer": "c) La nefrona"
+    },
+    {
+      "question": "Los tres procesos básicos que ocurren en la nefrona para formar la orina son:",
+      "options": [
+        "a) Dilución, concentración y excreción",
+        "b) Filtración glomerular, reabsorción tubular y secreción tubular",
+        "c) Absorción, distribución y metabolismo",
+        "d) Contracción, relajación y bombeo"
+      ],
+      "correct_answer": "b) Filtración glomerular, reabsorción tubular y secreción tubular"
+    },
+    {
+      "question": "La insuficiencia renal aguda causada por una hemorragia grave se clasificaría como:",
+      "options": [
+        "a) Prerenal",
+        "b) Intrarenal (renal)",
+        "c) Posrenal",
+        "d) Glomerular"
+      ],
+      "correct_answer": "a) Prerenal"
+    },
+    {
+      "question": "La insuficiencia renal aguda causada por cálculos renales que obstruyen las vías urinarias se clasificaría como:",
+      "options": [
+        "a) Prerenal",
+        "b) Intrarenal (renal)",
+        "c) Posrenal",
+        "d) Tubular"
+      ],
+      "correct_answer": "c) Posrenal"
+    },
+    {
+      "question": "¿En qué segmento principal de la nefrona actúan los diuréticos tiazídicos (ej. Hidroclorotiazida)?",
+      "options": [
+        "a) Túbulo contorneado proximal",
+        "b) Asa de Henle",
+        "c) Túbulo contorneado distal",
+        "d) Túbulo colector"
+      ],
+      "correct_answer": "c) Túbulo contorneado distal"
+    },
+    {
+      "question": "¿Qué efecto característico tienen los diuréticos tiazídicos sobre la excreción de calcio?",
+      "options": [
+        "a) La aumentan significativamente",
+        "b) La disminuyen (retienen calcio)",
+        "c) No la modifican",
+        "d) La aumentan solo en combinación con furosemida"
+      ],
+      "correct_answer": "b) La disminuyen (retienen calcio)"
+    },
+    {
+      "question": "Los diuréticos de alta eficacia o del asa (ej. Furosemida) actúan inhibiendo la reabsorción de $Na+~y~Cl-$ principalmente en:",
+      "options": [
+        "a) El glomérulo",
+        "b) El túbulo contorneado proximal",
+        "c) La rama ascendente gruesa del asa de Henle",
+        "d) El túbulo colector"
+      ],
+      "correct_answer": "c) La rama ascendente gruesa del asa de Henle"
+    },
+    {
+      "question": "La Espironolactona es un diurético ahorrador de potasio que actúa como antagonista competitivo de:",
+      "options": [
+        "a) La vasopresina (ADH)",
+        "b) La aldosterona",
+        "c) La angiotensina II",
+        "d) La renina"
+      ],
+      "correct_answer": "b) La aldosterona"
+    },
+    {
+      "question": "El Manitol es un diurético que actúa principalmente por:",
+      "options": [
+        "a) Bloqueo de la reabsorción de sodio",
+        "b) Antagonismo de la aldosterona",
+        "c) Inhibición de la anhidrasa carbónica",
+        "d) Efecto osmótico en los túbulos renales"
+      ],
+      "correct_answer": "d) Efecto osmótico en los túbulos renales"
+    },
+    {
+      "question": "La Acetazolamida es un diurético que inhibe la enzima:",
+      "options": [
+        "a) $Na+/K_{+}$ ATPasa",
+        "b) Ciclooxigenasa (COX)",
+        "c) Anhidrasa carbónica",
+        "d) Fosfodiesterasa"
+      ],
+      "correct_answer": "c) Anhidrasa carbónica"
+    },
+    {
+      "question": "Una infección urinaria (ITU) que afecta la uretra y la vejiga, con síntomas como disuria y polaquiuria, se considera:",
+      "options": [
+        "a) ITU alta (pielonefritis)",
+        "b) ITU baja (cistitis/uretritis)",
+        "c) ITU complicada",
+        "d) Bacteriuria asintomática"
+      ],
+      "correct_answer": "b) ITU baja (cistitis/uretritis)"
+    },
+    {
+      "question": "Una ITU que ocurre en un paciente con alteraciones anatómicas o funcionales del tracto urinario se clasifica como:",
+      "options": [
+        "a) ITU no complicada",
+        "b) ITU complicada",
+        "c) ITU recurrente",
+        "d) ITU nosocomial"
+      ],
+      "correct_answer": "b) ITU complicada"
+    },
+    {
+      "question": "Las Quinolonas (ej. Ciprofloxacino, Norfloxacino) son antibióticos utilizados en ITU que actúan:",
+      "options": [
+        "a) Inhibiendo la síntesis de la pared celular",
+        "b) Inhibiendo la síntesis de proteínas (ribosomas)",
+        "c) Inhibiendo la ADN girasa bacteriana",
+        "d) Como antimetabolitos del ácido fólico"
+      ],
+      "correct_answer": "c) Inhibiendo la ADN girasa bacteriana"
+    },
+    {
+      "question": "El Cotrimoxazol es una combinación de:",
+      "options": [
+        "a) Amoxicilina y Ácido Clavulánico",
+        "b) Sulfametoxazol y Trimetoprim",
+        "c) Cefalexina y Gentamicina",
+        "d) Nitrofurantoína y Fenazopiridina"
+      ],
+      "correct_answer": "b) Sulfametoxazol y Trimetoprim"
+    }
+  ],
+  "Capítulo VIII: Farmacología de la Inflamación y el Dolor": [
+    {
+      "question": "¿Cómo define la IASP (International Association for the Study of Pain) el dolor?",
+      "options": [
+        "a) Únicamente como una sensación física",
+        "b) Como una respuesta refleja a un estímulo",
+        "c) Como una experiencia sensorial y emocional desagradable asociada a daño tisular real o potencial",
+        "d) Como un signo vital objetivo"
+      ],
+      "correct_answer": "c) Como una experiencia sensorial y emocional desagradable asociada a daño tisular real o potencial"
+    },
+    {
+      "question": "¿Qué sustancias químicas mencionadas pueden sensibilizar las terminaciones nerviosas del dolor (nociceptores)?",
+      "options": [
+        "a) Endorfinas y encefalinas",
+        "b) Glucosa y oxígeno",
+        "c) Prostaglandinas y sustancia P",
+        "d) Acetilcolina y dopamina (como excitadores directos)"
+      ],
+      "correct_answer": "c) Prostaglandinas y sustancia P"
+    },
+    {
+      "question": "El aumento de la sensibilidad de los receptores del dolor se denomina:",
+      "options": [
+        "a) Analgesia",
+        "b) Anestesia",
+        "c) Hiperalgesia",
+        "d) Parestesia"
+      ],
+      "correct_answer": "c) Hiperalgesia"
+    },
+    {
+      "question": "El dolor que se origina como consecuencia directa de una lesión o enfermedad que afecta al sistema somatosensorial se clasifica como:",
+      "options": [
+        "a) Dolor nociceptivo somático",
+        "b) Dolor nociceptivo visceral",
+        "c) Dolor neuropático",
+        "d) Dolor idiopático (psicosomático)"
+      ],
+      "correct_answer": "c) Dolor neuropático"
+    },
+    {
+      "question": "La aparición de dolor frente a estímulos que habitualmente no son dolorosos, característica del dolor neuropático, se llama:",
+      "options": [
+        "a) Hiperalgesia",
+        "b) Hipoalgesia",
+        "c) Alodinia",
+        "d) Disestesia"
+      ],
+      "correct_answer": "c) Alodinia"
+    },
+    {
+      "question": "¿Cuáles son los cuatro signos cardinales clásicos de la inflamación aguda mencionados?",
+      "options": [
+        "a) Fiebre, tos, fatiga, malestar",
+        "b) Dolor, calor, rubor, tumefacción",
+        "c) Palidez, frío, rigidez, sequedad",
+        "d) Prurito, erupción, edema, descamación"
+      ],
+      "correct_answer": "b) Dolor, calor, rubor, tumefacción"
+    },
+    {
+      "question": "¿Qué grupo de fármacos es el prototipo de los analgésicos, antipiréticos y antiinflamatorios no esteroideos (AINES)?",
+      "options": [
+        "a) Opioides (Morfina)",
+        "b) Corticosteroides (Prednisona)",
+        "c) Salicilatos (Aspirina)",
+        "d) Paracetamol"
+      ],
+      "correct_answer": "c) Salicilatos (Aspirina)"
+    },
+    {
+      "question": "¿Cuál fue el principal mecanismo de acción propuesto por Vane en 1971 para los fármacos tipo aspirina?",
+      "options": [
+        "a) Bloqueo de receptores opioides",
+        "b) Inhibición de la síntesis de prostaglandinas (por inhibición de la ciclooxigenasa)",
+        "c) Estabilización de las membranas lisosomales",
+        "d) Antagonismo de la histamina"
+      ],
+      "correct_answer": "b) Inhibición de la síntesis de prostaglandinas (por inhibición de la ciclooxigenasa)"
+    },
+    {
+      "question": "La enzima ciclooxigenasa (COX) existe en al menos dos isoformas. ¿Cuál se considera principalmente inducible por estímulos inflamatorios?",
+      "options": [
+        "a) COX-1",
+        "b) COX-2",
+        "c) COX-3",
+        "d) Lipoxigenasa"
+      ],
+      "correct_answer": "b) COX-2"
+    },
+    {
+      "question": "¿Qué AINE tiene una actividad antiinflamatoria muy débil, siendo principalmente analgésico y antipirético?",
+      "options": [
+        "a) Aspirina",
+        "b) Ibuprofeno",
+        "c) Indometacina",
+        "d) Paracetamol (Acetaminofén)"
+      ],
+      "correct_answer": "d) Paracetamol (Acetaminofén)"
+    },
+    {
+      "question": "El efecto antipirético de los AINEs se debe principalmente a la inhibición de la sintesis de prostaglandinas en:",
+      "options": [
+        "a) Las plaquetas",
+        "b) El endotelio vascular",
+        "c) El hipotálamo",
+        "d) El sitio de la inflamación periférica"
+      ],
+      "correct_answer": "c) El hipotálamo"
+    },
+    {
+      "question": "¿Qué característica distingue a la aspirina de otros AINEs en su interacción con la ciclooxigenasa plaquetaria?",
+      "options": [
+        "a) Es un inhibidor reversible",
+        "b) Es un inhibidor selectivo de COX-2",
+        "c) Es un inhibidor irreversible (acetila la enzima)",
+        "d) No afecta la agregación plaquetaria"
+      ],
+      "correct_answer": "c) Es un inhibidor irreversible (acetila la enzima)"
+    },
+    {
+      "question": "La Morfina, Codeína y Fentanilo pertenecen al grupo de analgésicos conocidos como:",
+      "options": [
+        "a) AINES",
+        "b) Corticosteroides",
+        "c) Opioides",
+        "d) Anestésicos locales"
+      ],
+      "correct_answer": "c) Opioides"
+    },
+    {
+      "question": "Los opioides ejercen su acción analgésica uniéndose a receptores específicos. ¿Cuáles son los tres tipos principales de receptores opioides mencionados?",
+      "options": [
+        "a) Alfa, Beta, Gamma",
+        "b) M1, M2, M3 (Muscarínicos)",
+        "c) D1, D2 (Dopaminérgicos)",
+        "d) Mu (mu$), Kappa (kappa$), Delta (delta$)"
+      ],
+      "correct_answer": "d) Mu (mu$), Kappa (kappa$), Delta (delta$)"
+    },
+    {
+      "question": "¿Qué sustancia derivada de la histidina produce vasodilatación, edema, broncoconstricción y es un mediador clave en reacciones alérgicas e inflamatorias?",
+      "options": [
+        "a) Bradicinina",
+        "b) Serotonina",
+        "c) Histamina",
+        "d) Sustancia P"
+      ],
+      "correct_answer": "c) Histamina"
+    }
+  ],
+  "Capítulo IX: Radiofarmacología": [
+    {
+      "question": "¿Qué utiliza la Medicina Nuclear para estudiar el funcionamiento de órganos y tratar enfermedades?",
+      "options": [
+        "a) Rayos X de alta energia",
+        "b) Campos magnéticos intensos (Resonancia Magnética)",
+        "c) Radiofármacos (sustancias radiactivas)",
+        "d) Ultrasonido"
+      ],
+      "correct_answer": "c) Radiofármacos (sustancias radiactivas)"
+    },
+    {
+      "question": "¿De qué están compuestos generalmente los radiofármacos?",
+      "options": [
+        "a) Únicamente de un isótopo radiactivo",
+        "b) De un fármaco transportador y un isótopo radiactivo",
+        "c) De un anticuerpo monoclonal y un agente quimioterápico",
+        "d) De un medio de contraste yodado"
+      ],
+      "correct_answer": "b) De un fármaco transportador y un isótopo radiactivo"
+    },
+    {
+      "question": "¿Para qué propósito se utilizan aproximadamente el 95% de los radiofármacos en Medicina Nuclear?",
+      "options": [
+        "a) Terapéutico (tratamiento)",
+        "b) Diagnóstico por imagen",
+        "c) Anestesia",
+        "d) Profilaxis de infecciones"
+      ],
+      "correct_answer": "b) Diagnóstico por imagen"
+    },
+    {
+      "question": "¿Qué tipo de emisión radiactiva se aprovecha principalmente en los radiofármacos de diagnóstico?",
+      "options": [
+        "a) Radiación Alfa (alpha$)",
+        "b) Radiación Beta (beta$)",
+        "c) Radiación Gamma (gamma$) o Positrones (beta+$)",
+        "d) Neutrones"
+      ],
+      "correct_answer": "c) Radiación Gamma (gamma$) o Positrones (beta+$)"
+    },
+    {
+      "question": "¿Qué tipo de emisión radiactiva se aprovecha principalmente en los radiofármacos terapéuticos por su capacidad de depositar energía y dañar células?",
+      "options": [
+        "a) Radiación Gamma",
+        "b) Radiación Beta",
+        "c) Rayos X",
+        "d) Positrones beta"
+      ],
+      "correct_answer": "b) Radiación Beta"
+    },
+    {
+      "question": "¿Cuál es el isótopo radiactivo más ampliamente utilizado en los servicios de Medicina Nuclear, obtenido a partir de generadores de Molibdeno-99?",
+      "options": [
+        "a) Yodo-131 (1311)",
+        "b) Galio-67 (67Ga)",
+        "c) Tecnecio-99m (99mTc)",
+        "d) Talio-201 (201TI)"
+      ],
+      "correct_answer": "c) Tecnecio-99m (99mTc)"
+    },
+    {
+      "question": "¿Qué significa que un radiofármaco debe ser \"apirógeno\"?",
+      "options": [
+        "a) Que no emite radiación",
+        "b) Que no produce fiebre al ser administrado",
+        "c) Que es estable químicamente",
+        "d) Que no contiene bacterias vivas (estéril)"
+      ],
+      "correct_answer": "b) Que no produce fiebre al ser administrado"
+    },
+    {
+      "question": "La vía de administración más frecuente para los radiofármacos es:",
+      "options": [
+        "a) Oral",
+        "b) Inhalatoria",
+        "c) Parenteral (intravenosa)",
+        "d) Tópica"
+      ],
+      "correct_answer": "c) Parenteral (intravenosa)"
+    },
+    {
+      "question": "Para estudios de ventilación pulmonar, ¿qué vía de administración se utiliza para gases o aerosoles radiactivos?",
+      "options": [
+        "a) Oral",
+        "b) Intravenosa",
+        "c) Subcutánea",
+        "d) Inhalatoria"
+      ],
+      "correct_answer": "d) Inhalatoria"
+    },
+    {
+      "question": "La administración intracavitaria (ej. intrarticular) de coloides marcados para tratar enfermedades artríticas se denomina:",
+      "options": [
+        "a) Gammagrafía ósea",
+        "b) Tomografía por emisión de positrones (PET)",
+        "c) Radiosinoviortesis (RSO)",
+        "d) Terapia con Yodo-131"
+      ],
+      "correct_answer": "c) Radiosinoviortesis (RSO)"
+    },
+    {
+      "question": "El período de semidesintegración efectivo de un radiofármaco depende de:",
+      "options": [
+        "a) Únicamente del decaimiento físico del radionúclido",
+        "b) Únicamente de la eliminación biológica del fármaco",
+        "c) Tanto del decaimiento físico como de la eliminación biológica",
+        "d) De la dosis administrada"
+      ],
+      "correct_answer": "c) Tanto del decaimiento físico como de la eliminación biológica"
+    },
+    {
+      "question": "Para evaluar la función y morfología del tejido óseo, ¿qué tipo de radiofármaco marcado con 99mTc se utiliza comúnmente?",
+      "options": [
+        "a) Macroagregados de Albúmina",
+        "b) Pirofosfato o Difosfonatos",
+        "c) DTPA o DMSA",
+        "d) Glóbulos rojos marcados"
+      ],
+      "correct_answer": "b) Pirofosfato o Difosfonatos"
+    },
+    {
+      "question": "El 99mTc-DTPA y el 99mTc-DMSA son radiofármacos utilizados principalmente para la evaluación de:",
+      "options": [
+        "a) El corazón",
+        "b) Los pulmones",
+        "c) Los riñones",
+        "d) El cerebro"
+      ],
+      "correct_answer": "c) Los riñones"
+    },
+    {
+      "question": "El 201TI-Cloruro de Talio y los 99mTc-Isonitrilos (ej. MIBI) se utilizan fundamentalmente en estudios de perfusión de qué órgano?",
+      "options": [
+        "a) Hígado",
+        "b) Cerebro",
+        "c) Riñón",
+        "d) Corazón (miocardio)"
+      ],
+      "correct_answer": "d) Corazón (miocardio)"
+    },
+    {
+      "question": "Para detectar una hemorragia digestiva baja mediante gammagrafía, ¿qué se suele marcar con 99mTc?",
+      "options": [
+        "a) Plaquetas",
+        "b) Leucocitos",
+        "c) Glóbulos Rojos",
+        "d) Albúmina"
+      ],
+      "correct_answer": "c) Glóbulos Rojos"
+    }
+  ]
+}
